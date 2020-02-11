@@ -7,10 +7,10 @@ html {
 
 #clear {
     position: relative;
-    left: 50%;
-    height: 5vh;
-    width: 7vw;
-    margin: 1vh;
+    left: 45%;
+    height: 10%;
+    width: 10%;
+    margin: 10px;
     font-size: 2rem;
     text-decoration: none;
     text-align: center;
